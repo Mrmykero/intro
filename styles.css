@@ -84,11 +84,7 @@ p{
   width: 25%;
   float: right;
   margin-left: 30px;
-}
-.profile-picture{
-  width: 15%;
-  margin: auto;
-}
+
 hr {
     border: 6px dotted #EAF6F6;
     border-style: none none dotted;
